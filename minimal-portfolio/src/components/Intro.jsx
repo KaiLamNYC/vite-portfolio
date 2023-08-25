@@ -7,7 +7,7 @@ function Intro() {
 				Kai
 			</h1>
 			<p className='text-base md:text-cl mb-3 font-medium'>
-				10x Engineer & Rick Enjoyer
+				Fullstack Developer
 			</p>
 			<p className='text-sm max-w-xl mb-6 font-bold'>
 				Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
