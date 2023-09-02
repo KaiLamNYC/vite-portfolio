@@ -7,19 +7,23 @@ function Intro() {
 				Kai
 			</h1>
 			<p className='text-base md:text-cl mb-3 font-medium'>
-				Fullstack Developer
+				Junior Fullstack Web Developer
 			</p>
 			<p className='text-sm max-w-xl mb-6 font-bold'>
-				Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-				tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae
-				elementum curabitur. Link to something cool{" "}
+				I'm a Junior Full-Stack Developer with a passion for crafting web
+				solutions that blend creativity with functionality. Here, you'll find a
+				collection of my projects and experiences, showcasing my dedication to
+				clean code, problem-solving, and continuous learning. Join me on this
+				journey through the world of web development, where each project tells a
+				story of growth and innovation. Let's build something incredible
+				together.{" "}
 				<a
-					href='https://www.rickowens.eu/en/US/men/section/all'
+					href='https://github.com/KaiLamNYC'
 					target='_blank'
 					className='text-cyan-600 hover:underline underline-offset-2 decoration-2 decoration-red-600'
 					rel='noreferrer noopener'
 				>
-					Rick Owens
+					Git Hub
 				</a>
 			</p>
 		</div>
