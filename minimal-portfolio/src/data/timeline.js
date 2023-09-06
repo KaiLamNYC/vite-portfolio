@@ -4,13 +4,13 @@ export default [
 		title: "Noble Desktop",
 		duration: "1 year",
 		details:
-			"I delved into full-stack development with the MERN (MongoDB, Express.js, React, Node.js) stack, mastering both front-end and back-end technologies to create dynamic web applications",
+			"I gained expertise in software engineering and web development through focused courses. This includes SQL for database management and proficiency in web technologies like HTML, CSS, and JavaScript. I've specialized in using MongoDB, Node.js, Express, and React, as well as Next.js and TypeScript, enhancing my skills for web development challenges.",
 	},
 	{
 		year: "2022",
 		title: "Noble Desktop",
 		duration: "6 months",
 		details:
-			"I gained expertise in Python programming and automated web testing using Selenium, enhancing my scripting and testing skills.",
+			"I've honed my Python skills through a series of immersive courses, including Pandas for data manipulation, Django and Flask for web development, and Selenium for automation. These courses have equipped me with a strong foundation in Python programming for various applications.",
 	},
 ];
